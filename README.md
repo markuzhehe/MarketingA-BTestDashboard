@@ -1,5 +1,5 @@
 # Marketing A/B Test Dashboard
-An enterprise-grade Python framework and command-line interface (CLI) for automating A/B test analysis. This tool validates experiment integrity by checking for common issues—such as traffic allocation bugs, distribution violations, and inflated false positives—before generating final statistical results.
+An enterprise-grade Python framework and command-line interface (CLI) for automating A/B test analysis. This tool validates experiment integrity by checking for common issues such as traffic allocation bugs, distribution violations, and inflated false positives—before generating final statistical results.
 
 ## Features
 * **Sample Ratio Mismatch (SRM) Detection**
